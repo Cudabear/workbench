@@ -1,0 +1,22 @@
+{
+  "name": "workbench",
+  "version": "1.0.0",
+  "description": "a simple node server for working on frontend projects",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cudabear/workbench.git"
+  },
+  "author": "Cudabear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cudabear/workbench/issues"
+  },
+  "homepage": "https://github.com/Cudabear/workbench#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
